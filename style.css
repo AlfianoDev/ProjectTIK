@@ -6,11 +6,11 @@ color: #c8791a; /* Warna teks utama (orange) */
 
 .kartu-profil {
 width: 300px;
-margin: 50px auto: /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
 padding: 20px;
 background-color: white;
 boderder-radius: 15px; /* Membbuat sudut menjadi melengkung */
-box-shadow: 0 4px 8px rgba(0,0,0,0.1) /* Efek bayangan */
+box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
 text-align: /* menengahkan semua teks di dalam kartu */
 }
 
